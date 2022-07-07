@@ -6,7 +6,7 @@ This repository contains the code relative to the paper:
 **A Convolution Residual Network for Heating-Invariant Defect Segmentation in Composite Materials Inspected by Lock-in Thermography**</br>
 IEEE Transactions on Instrumentation and Measurement</br>
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9551878)
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9551878)]
 
 
 Please cite with the following BibTeX:
