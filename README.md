@@ -2,10 +2,9 @@
 
 This repository presents the virtual try-on dataset proposed in:
 
-*D. Morelli, R. Marani, E. D’Accardi, D. Palumbo, U. Galietti, T. D’Orazio*
-
-**A Convolution Residual Network for Heating-Invariant Defect Segmentation in Composite Materials Inspected by Lock-in Thermography**
-IEEE Transactions on Instrumentation and Measurement
+*D. Morelli, R. Marani, E. D’Accardi, D. Palumbo, U. Galietti, T. D’Orazio*</br>
+**A Convolution Residual Network for Heating-Invariant Defect Segmentation in Composite Materials Inspected by Lock-in Thermography**</br>
+IEEE Transactions on Instrumentation and Measurement</br>
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9551878)
 
