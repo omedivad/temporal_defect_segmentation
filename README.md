@@ -1,6 +1,6 @@
 # Temporal defect segmentation
 
-This repository presents the virtual try-on dataset proposed in:
+This repository contains the code relative to the paper:
 
 *D. Morelli, R. Marani, E. D’Accardi, D. Palumbo, U. Galietti, T. D’Orazio*</br>
 **A Convolution Residual Network for Heating-Invariant Defect Segmentation in Composite Materials Inspected by Lock-in Thermography**</br>
